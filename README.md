@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey Hey
 
-<!--
-**MidgetJake/MidgetJake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dunno exactly why you'd be looking at my profile as of now, but you're here anyway.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on all sorts of bits and bobs:
+ - Game dev
+ - Mobile apps
+ - Web apps
+ - APIs
+ - Bots
+ - Any random thing that sounds fun/interesting
+ 
+Ain't got much public because it is all TERRIBLE. Even the public stuff is terrible tbh, but whatever.
